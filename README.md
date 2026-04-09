@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![WoW Version](https://img.shields.io/badge/WoW-12.0%2B-brightgreen.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-yellow.svg)
-
+**说明**：社区版本免费使用，但是只保留了默认循环、自定义编辑功能，在线循环功能已屏蔽
 ---
 
 ## ⚠️ 免责声明
